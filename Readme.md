@@ -1,7 +1,7 @@
-# Mobile Development - Voornaam Naam - 2627
+# Mobile Development - Abdessamad Harram - 2627
 
 * Jaar : 2026-2027
-* Naam : **SCHRIJF HIER JE EIGEN NAAM**
+* Naam : **Harram Abdessamad**
 
 ## Linken
 
